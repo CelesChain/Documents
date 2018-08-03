@@ -1,5 +1,7 @@
 # CelesChain Documents
 
+[中文](https://github.com/CelesChain/Documents/blob/master/README_cn.md)
+
 ## White Paper
 
 #### Business White Paper
